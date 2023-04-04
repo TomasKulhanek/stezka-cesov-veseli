@@ -11,7 +11,7 @@ nav_order: 2
 Stezka vede většinou po polních a lesních cestách, v obcích po chodnících, případně silnicích. Na stezce je umístěno 12 informačních tabulí s informacemi o přírodě, historii a zajímavostech okolí. Celková délka naučné stezky (včetně odboček) je 18,6 km. Trasa je vhodná pro pěší i pro cyklisty (na trekových, crosových, nebo horských kolech).
 
 
-{{mapa-stezka-listopad-2007.jpg?750|aktualní mapka plánované trasy}}
+![mapa](img/stezka-mapa.png)
 
 ## Češov ##
 
@@ -24,9 +24,17 @@ Na pomníku padlým v první světové válce je socha chodského strážce čes
 
 Trasa stezky pokračuje nahoru kolem několika roubených domků k rozcestí s křížkem. Zde se trasa stezky rozdvojuje. Slepá větev stezky vede  dále kolem "školy" (nyní Obecní úřad) po polní cestě k severní bráně Češovských Valů. Hlavní trasa stezky pokračuje po silnici směrem na Kozojedy. Doufáme, že se časem podaří napojit stezku polními a lesními cestami na nádraží v Bartoušově a také na již vyznačenou cyklostezku č. 14 (tomu však v současnosti brání velmi špatný stav polní cesty z Mrštníku do Labouně)
 
-Dálší informace o obci Češov najdete [[Češov|zde]].
+![Pomník obětem první světové války v Češově - horní část](img/kozina.jpg)
+<br/>Pomník obětem první světové války v Češově - horní část
 
-{{kozina.jpg?152|Pomník obětem první světové války v Češově - horní část}}  {{cesov-zvonicka.jpg?133|zvonička}} {{cesov-vaclav-s-lipama.jpg?150|socha svatého Václava}} {{img_5082.jpg?150|kříž na rozcestí v Češově}}
+![zvonička](img/cesov-zvonicka.jpg)
+<br/>Zvonička
+
+![socha svatého Václava](img/cesov-vaclav-s-lipama.jpg)
+<br/>socha svatého Václava
+
+![kříž na rozcestí v Češově](img/img_5082.jpg)
+<br/>kříž na rozcestí v Češově
 
 ## Češovské Valy ##
 
@@ -35,12 +43,7 @@ Dálší informace o obci Češov najdete [[Češov|zde]].
 
 K Češovským Valům vede "slepá" odbočka naučné stezky (z důvodu obtížného průchodu Češovskými Valy). 
 
-Odbočka k Češovským Valům vede po polní cestě od "školy" (nyní Obecní úřad) k severní bráně, kde končí. V blízkosti severní brány je také pomník [[Češov|Tomáše Svobody]], myslivce češovského, který byl popraven v době rekatolizace po bitvě na Bílé hoře. 
-
-
-
-
-
+Odbočka k Češovským Valům vede po polní cestě od "školy" (nyní Obecní úřad) k severní bráně, kde končí. V blízkosti severní brány je také pomník Tomáše Svobody, myslivce češovského, který byl popraven v době rekatolizace po bitvě na Bílé hoře. 
 
 
 ### Něco o Valech ###
@@ -57,7 +60,7 @@ Pozoruhodná je výška a rozloha opevnění:
 
 Češovské Valy byly postupně považovány za "velké ležení táboritů", avarský hrink, slovanské hradiště, nebo hradiště Keltů.
 
-Kdo Valy skutečně založil je dnes velmi obtížné určit, byly zde totiž nalezeny střepy z 9. či 10. století, ale také kamený nástroj z mladší doby kamenné (blíže k mladší době kamenné viz [[http://cs.wikipedia.org/wiki/Neolit]]). Nálezy keramiky a nástrojů na Valech ukazují na sídlištní a pohřební aktivitu na tomto místě, na odkopávání a přemisťování kulturních vrstev i s nálezy. Hradiště bylo rozšiřováno, mohlo být přestavováno a doplňováno, nebo jen využíváno bez dalších zásahů do opevnění.
+Kdo Valy skutečně založil je dnes velmi obtížné určit, byly zde totiž nalezeny střepy z 9. či 10. století, ale také kamený nástroj z mladší doby kamenné (blíže k mladší době kamenné viz http://cs.wikipedia.org/wiki/Neolit. Nálezy keramiky a nástrojů na Valech ukazují na sídlištní a pohřební aktivitu na tomto místě, na odkopávání a přemisťování kulturních vrstev i s nálezy. Hradiště bylo rozšiřováno, mohlo být přestavováno a doplňováno, nebo jen využíváno bez dalších zásahů do opevnění.
 
 Hradiště Češovské Valy vzniklo nejméně ve dvou fázích: 
   * starší fáze stavby opevnění je nejspíš pravěká (hradiště lidu popelnicových polí) až raněstředověká;
@@ -97,7 +100,7 @@ První písemná zmínka o obci Kozojedy je z roku 1369. Nyní zde má trvalé b
 
 O historii i současnosti obce Kozojedy se více dozvíte na oficiálních stránkách obce: [[http://www.kozojedy.com/]].
 
-Kromě pověsti o ohnivém psu se ke Kozojedům váže pověst o Janovi, který byl za chrta dán. Jedná se o málo známou variaci na téma "omlazování". Zdejší babice se na rozdíl od známější Čachtické paní chtěla na omlazení použít krev panicovu (konkrétně Janovu). Celou pověst, dokonce v podobě básně, najdete rovněž  [[http://www.obcecr.cz/kozojedy/index.php?lang=1&level=2&id=209|na stránkách obce, v rubrice báseň]]
+Kromě pověsti o ohnivém psu se ke Kozojedům váže pověst o Janovi, který byl za chrta dán. Jedná se o málo známou variaci na téma "omlazování". Zdejší babice se na rozdíl od známější Čachtické paní chtěla na omlazení použít krev panicovu (konkrétně Janovu). Celou pověst, dokonce v podobě básně, najdete rovněž  http://www.obcecr.cz/kozojedy/index.php?lang=1&level=2&id=209
 
 
 
@@ -113,7 +116,7 @@ Ve Sběři stezka vede kolem sochy sv. Jana Křititele, dále kolem obecního ú
 
 První písemná zmínka o obci Sběř je z roku 1332. Kdysi tu stávala renesanční tvrz, ta byla později přestavěna na letní barokní zámek, který byl zbořen v roce 1786. Sochy, které kdysi stávaly ve vstupním portále tohoto zámku, nyní podpírají balkón zámku ve Volanicích.
 
-Obec Sběř má tři místní části: Sběř, Velešice a Hrobičany. Nyní zde žije 264 obyvatel, průměrný věk obyvatel je 41 let. Více informací o historii i součastnosti obce se dozvíte na oficiálních stránkách obce: [[http://www.obec-sber.org/]]
+Obec Sběř má tři místní části: Sběř, Velešice a Hrobičany. Nyní zde žije 264 obyvatel, průměrný věk obyvatel je 41 let. Více informací o historii i součastnosti obce se dozvíte na oficiálních stránkách obce: http://www.obec-sber.org/
 
 
 
@@ -123,9 +126,9 @@ Ještě nedávno vedla z Vysokého Veselí do Smidar železniční trať. Naše 
 
 Tato trať byla dostavěna v roce 1881, poslední vlak tudy projel 29. 5. 1976.  
 
-Více se o zrušené trati Smidary - Vysoké Veselí dozvíte na stránkách Pardubického spolku historie železniční dopravy: [[http://www.pshzd.cz/veseli.html]]
+Více se o zrušené trati Smidary - Vysoké Veselí dozvíte na stránkách Pardubického spolku historie železniční dopravy: http://www.pshzd.cz/veseli.html
 
-Trať Vysoké Veselí - Smidary není jedinou zaniklou tratí na trase naší stezky. Od roku 1922 do roku 1959 fungovala úzkorozchodná trať řepařské železnice mezi cukrovarem v Kopidlně a Češovem. Tato trať byla součástí celé soustavy řepařských úzkorozchodných tratí. Nyní po ní zbyl už jen místní název "Na drážce" a stopy v krajině, které postřehne jen odborník. Více o zaniklých úzkorozchodných tratích na [[http://home.tiscali.cz:8080/hlusice//uzkorozchod.html]].
+Trať Vysoké Veselí - Smidary není jedinou zaniklou tratí na trase naší stezky. Od roku 1922 do roku 1959 fungovala úzkorozchodná trať řepařské železnice mezi cukrovarem v Kopidlně a Češovem. Tato trať byla součástí celé soustavy řepařských úzkorozchodných tratí. Nyní po ní zbyl už jen místní název "Na drážce" a stopy v krajině, které postřehne jen odborník. 
 
 
 ## Velešice ##
@@ -145,16 +148,16 @@ Pozoruhodné jsou také **památné lípy** na prostranství před kostelem.
 
 ## Chráněná území ##
 
-Na první z následujících mapek jsou vyznačeny 2 oblasti, které patří do soustavy chráněných území podle směrnic EU a zákona o ochraně přírody ČR - [[http://www.nature.cz/natura2000-design3/sub.php?id=1802|Natura 2000]]. Prvním z nich je tzv. evropsky významná lokalita podél toku řek Cidlina a Javorka, druhým je evropsky významná lokalita Veselský háj.
+Na první z následujících mapek jsou vyznačeny 2 oblasti, které patří do soustavy chráněných území podle směrnic EU a zákona o ochraně přírody ČR - http://www.nature.cz/natura2000-design3/sub.php?id=1802 Prvním z nich je tzv. evropsky významná lokalita podél toku řek Cidlina a Javorka, druhým je evropsky významná lokalita Veselský háj.
 
 Na druhé mapce je vyznačeno území přírodní památky Veselský háj a rybník Smrkovák.
 
 {{mapa-natura1.png?450|mapka naturových oblastí v okolí Vysokého Veselí}} {{mapa-pp1.png?450|mapka chráněných území v okolí Vysokého Veselí}}
 
-Zdroj: [[http://geoportal.cenia.cz/mapmaker/cenia/portal/index.php?lang=cz&mode=tasks&win_size=1&dict_shifter=0&ptz_shifter=0&adres_shifter=0&ptz_filter_id_active=&adres_filter_id_active=&kod_obj=&rect=-672754%3A-1032779%3A-659114%3A-1023231&xy=&xy_label=&use_user_rect=&tree_dict_idobj_active=45&tree_dict_parent_active=1&tree_name_active=Ochrana+%BEivotn%EDho+prost%F8ed%ED&dict_idobj=45&lokal=-672754%3A-1032779%3A-659114%3A-1023231&win_size_exter=2%7C950%7C740|portal.gov.cz - mapy]]
+Zdroj: http://geoportal.cenia.cz/mapmaker/cenia/portal/index.php?lang=cz&mode=tasks&win_size=1&dict_shifter=0&ptz_shifter=0&adres_shifter=0&ptz_filter_id_active=&adres_filter_id_active=&kod_obj=&rect=-672754%3A-1032779%3A-659114%3A-1023231&xy=&xy_label=&use_user_rect=&tree_dict_idobj_active=45&tree_dict_parent_active=1&tree_name_active=Ochrana+%BEivotn%EDho+prost%F8ed%ED&dict_idobj=45&lokal=-672754%3A-1032779%3A-659114%3A-1023231&win_size_exter=2%7C950%7C740
 
-Více informací o této lokalitě  Veselský háj na české wikipedii [[http://cs.wikipedia.org/wiki/Veselský_háj_a_rybník_Smrkovák|wikipedia - Veselský háj a rybník Smrkovák]], další informace na stránkách Natury 2000
-[[http://www.nature.cz/natura2000-design3/web_lokality.php?cast=1805&akce=karta&id=60923|Natura 2000 - Veselský háj]],  [[http://www.nature.cz/natura2000-design3/web_lokality.php?cast=1805&akce=karta&id=60941|Natura 2000 - Cidlina a Javorka]]
+Více informací o této lokalitě  Veselský háj na české wikipedii http://cs.wikipedia.org/wiki/Veselský_háj_a_rybník_Smrkovák
+http://www.nature.cz/natura2000-design3/web_lokality.php?cast=1805&akce=karta&id=60923|Natura 2000 - Veselský háj]],  [[http://www.nature.cz/natura2000-design3/web_lokality.php?cast=1805&akce=karta&id=60941|Natura 2000 - Cidlina a Javorka]]
 
 
 
