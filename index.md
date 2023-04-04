@@ -17,7 +17,7 @@ V roce 2008 vybudovalo naučnou stezku, která prochází obcemi Češov, Kozoje
 
 ![mapa](img/stezka-mapa.png)
 
-[trasa](trasa.md)
+[trasa](trasa.html)
 
 ----
 

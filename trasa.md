@@ -6,7 +6,7 @@ nav_order: 2
 
 # Trasa naučné stezky
 
-  - **Naučná stezka** z Vysokého Veselí (přes Kákovice, Veselský háj, Velešice, Sběř a Kozojedy) do Češova a zpět(přes Volanice). Trasa naučné stezky je na mapce vyznačena **červenou barvou**.
+  - **Naučná stezka** z Vysokého Veselí (přes Kákovice, Veselský háj, Velešice, Sběř a Kozojedy) do Češova a zpět(přes Volanice). Trasa naučné stezky je na mapce vyznačena **zelenou čerchovanou čarou** a je dostupná ve veřejných mapových podkladech např. [mapy.cz](https://en.mapy.cz/turisticka?x=15.3924173&y=50.3250402&z=14) nebo v [seznamu naučných stezek v ČR](https://www.naucne-stezky.cz/naucna-stezka-cesov-veseli/).
   
 Stezka vede většinou po polních a lesních cestách, v obcích po chodnících, případně silnicích. Na stezce je umístěno 12 informačních tabulí s informacemi o přírodě, historii a zajímavostech okolí. Celková délka naučné stezky (včetně odboček) je 18,6 km. Trasa je vhodná pro pěší i pro cyklisty (na trekových, crosových, nebo horských kolech).
 
