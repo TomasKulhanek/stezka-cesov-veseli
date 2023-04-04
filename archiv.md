@@ -82,7 +82,8 @@ Z jeho vyprávění nás zaujalo:
 Děkujeme panu zvoníkovi Jiřímu Maleckému, že za námi vážil dlouhou cestu, a taky že nám zvon trochu srovnal, aby lépe zvonil, a hlavně že nám předvedl, jak se zvoní. 
 Naše díky patří také Vladimíru Vobořilovi, který zvoničku na slavnost nachystal (uklidil, natřel dveře, přivázal ke zvonu nový provaz...), Heleně Malé, která uvázala krásný věnec k soše sv. Václava, Vendule Hynkové, která bádala v archivu, abychom se o zvoničce dozvěděli něco z kronik, a Jaroslavě Kořínkové, která shromáždila informace o svatém Václavu.
 
-=== Z historie zvoničky ===
+### Z historie zvoničky
+
 Naše zvonička byla vystavěna v roce 1863. Je na ní nápis:// Zvonička tato je vystavěna ke cti a chvále boží nákladem  počestné obce češovské za V.Studenýho, starosty, Jana Rejfa, Jana Veselýho, radních, Vojtěcha Rýgla, početvedoucího v roce 1863.// A proč se ke stavbě odhodlali? Za starých dob nebyly ve vesnicích žádné kaple, ani zvonice. Až na popud císaře Josefa II. bylo vydáno nařízení o povinnosti zřízení zvonice v každé obci. Byla v tom  patrná snaha o zajištění bezpečnosti na vesnicích při požárech jiném hrozícím nebezpečí. Zvoničky bývaly obvykle postaveny uprostřed návsi. 
 
 Zvonilo se minimálně 3x denně – ráno , v poledne a večer – a pak také při úmrtí občana a jeho pohřbu, přede žněmi v neděli v poledne a k večerním májovým pobožnostem. Krátkým zvoněním svolávali občané ke schůzce prosebného procesí ke kapličkám a křížkům mimo vesnici, za zachování polní úrody. Šturmovalo se, tj. trhaně zvonilo, v případě požáru. Někdy se prý i zvonilo proti letním bouřkám a rozháněla se mračna s kroupami. Zvonit se muselo vždy v pravidelný čas. Dle ranního zvonění se vstávalo, v poledne se obědvalo a porovnávaly se hodiny. Klekání bylo pokynem pro děti, aby šly domů, protože bude chodit klekánice.
