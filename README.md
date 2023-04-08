@@ -22,6 +22,9 @@ Update the following files to your own content:
 - `index.md` (your new home page)
 - `README.md` (information for those who access your site repo on GitHub)
 
+on local installation test it by
+- `bundle exec jekyll serve` - then on localhost:4000 will be the web site rendered
+
 ## Changing the version of the theme and/or Jekyll
 
 Simply edit the relevant line(s) in the `Gemfile`.
