@@ -34,7 +34,7 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
 - Jak: pro putování doporučujeme použít kolo, ale povoleny jsou i všemožné další způsoby putování: pěšky, na koni, na koloběžce, na chůdách, na koni nebo na oslu… děti a domácí mazlíčky vezměte s sebou!
 - Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), výstava panenek v historických kostýmech, dresy slavných fotbalistů, pozorování přírody, dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Velešicích), SETKÁNÍ S VARHANÍKEM, razítka, …
 - Startovné: dospělí 20,- Kč, děti zdarma
-
+[Detailní informace](putovani.html)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
