@@ -24,16 +24,16 @@ Na pomníku padlým v první světové válce je socha chodského strážce čes
 
 Trasa stezky pokračuje nahoru kolem několika roubených domků k rozcestí s křížkem. Zde se trasa stezky rozdvojuje. Slepá větev stezky vede  dále kolem "školy" (nyní Obecní úřad) po polní cestě k severní bráně Češovských Valů. Hlavní trasa stezky pokračuje po silnici směrem na Kozojedy. Doufáme, že se časem podaří napojit stezku polními a lesními cestami na nádraží v Bartoušově a také na již vyznačenou cyklostezku č. 14 (tomu však v současnosti brání velmi špatný stav polní cesty z Mrštníku do Labouně)
 
-![Pomník obětem první světové války v Češově - horní část](img/kozina.jpg)
+![Pomník obětem první světové války v Češově - horní část](img/kozina.jpg){: width="25%"}
 <br/>Pomník obětem první světové války v Češově - horní část
 
-![zvonička](img/cesov-zvonicka.jpg)
+![zvonička](img/cesov-zvonicka.jpg){: width="25%"}
 <br/>Zvonička
 
-![socha svatého Václava](img/cesov-vaclav-s-lipama.jpg)
+![socha svatého Václava](img/cesov-vaclav-s-lipama.jpg){: width="25%"}
 <br/>socha svatého Václava
 
-![kříž na rozcestí v Češově](img/img_5082.jpg)
+![kříž na rozcestí v Češově](img/img_5082.jpg){: width="25%"}
 <br/>kříž na rozcestí v Češově
 
 ## Češovské Valy ##
