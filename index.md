@@ -21,6 +21,20 @@ Naše naučná stezka prochází obcemi Češov, Kozojedy, Sběř, Velešice, Vy
 
 [trasa](trasa.html)
 
+# Novinky a akce
+
+## Putování po stezce – 15. 7. 2023
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 15. července 2023
+- Start: na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
+- Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda), 
+- Cíl:  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
+pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek se třemi razítky
+- Trasy putování: 5- 20 km (v případě vlastní trasy klidně i více;-)
+- Kudy: většinou po trase naučné stezky, podrobné informace o trasách na všech kontrolních stanovištích
+- Jak: pro putování doporučujeme použít kolo, ale povoleny jsou i všemožné další způsoby putování: pěšky, na koni, na koloběžce, na chůdách, na koni nebo na oslu… děti a domácí mazlíčky vezměte s sebou!
+- Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), výstava panenek v historických kostýmech, dresy slavných fotbalistů, pozorování přírody, dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Velešicích), SETKÁNÍ S VARHANÍKEM, razítka, …
+- Startovné: dospělí 20,- Kč, děti zdarma
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
