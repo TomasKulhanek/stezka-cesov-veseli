@@ -15,6 +15,8 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
 - Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), výstava panenek v historických kostýmech, dresy slavných fotbalistů, pozorování přírody, dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Velešicích), SETKÁNÍ S VARHANÍKEM, razítka, …
 - Startovné: dospělí 20,- Kč, děti zdarma
 
+ ![mapa](/img/mapa-putovani-2023.png)
+
 ## CO / KDE / KDY (aneb podrobný itinerář)
 - Les plný zvířátek Najdete všechna zvířata a vyluštíte naši tajenku? Pak Vás odměna nemine! Po celou dobu putování (9-15:00) mezi Velešicemi a Kákovicemi. Začít hledat můžete ve Velešicích i na Kákovicích - záleží jen na Vás:-)
 - Na Kákovicích bude taky hasičské auto a hasiči - prohlédněte si hasičskou techniku v klidu a pořádně zblízka! (zhruba od 11 do 14)
