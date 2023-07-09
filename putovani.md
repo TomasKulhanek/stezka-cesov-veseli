@@ -33,6 +33,7 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
   - hasičská zbrojnice Češov - náves,
   - hospoda U čerta V.Veselí, kde také vaří,
   - stánek u hasičské zbrojnice ve Volanicích, kde také vaří
+  - na trase je běžně otevřeno ještě několik dalších občerstvovacích zařízení, například potraviny na náměstí ve Vysokém Veselí (běžná otevírací doba), hostinec u rybníka ve Vysokém Veselí
 
 
 ## Podrobnosti o trasách
@@ -40,6 +41,4 @@ Trasu si volí každý podle svého. Záleží jen na Vaši chuti, kondici, puto
 Pokud toho chcete stihnout co nejvíce, začněte na tom kontrolním stanovišti, kam to máte nejblíže. Pořadatelé Vám poradí, kudy se vydat dál.
 
 Putujícím s dětmi doporučujeme začít ve Vysokém Veselí nebo ve Velešicích. Mezi těmito stanovišti najdete spoustu atrakcí pro děti a hlavně trasa vede po polních a lesních cestách - v obcích po chodnících a místních komunikacích. A je opravdu krátká (cca 5 km).
-
-- Občerstvení: na trase je běžně otevřeno několik občerstvovacích zařízení, například potraviny na náměstí ve Vysokém Veselí (běžná otevírací doba), hostinec u rybníka ve Vysokém Veselí (tady i vaří a taky tady mají zmrzlinu), vaří i hospoda ve Volanicích – přímo vedle sálu s výstavou!
 
