@@ -11,8 +11,9 @@ Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku, kterou v ro
 Naše naučná stezka prochází obcemi Češov, Kozojedy, Sběř, Velešice, Vysoké Veselí, Volanice a kulturními a přírodními památkami Češovské Valy, Veselský háj.
 
 
-|--|--|
+
 | Adresa:| Spolek Stezka Češov - Vysoké Veselí, Češov 5, p. Jičín 506 01|
+|--|--|
 | IČO:| 27044041|
 | email: | stezka-cesov-veseli(zavinac)seznam.cz | 
 
