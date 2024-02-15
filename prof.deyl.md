@@ -9,4 +9,4 @@ nav_order: 7
 
 https://cs.wikipedia.org/wiki/Jan_Deyl
 
-K výročí 100 let od úmrtí prof. Deyla se pořádá v jeho rodném městě Vysokém Veselí vzpomínkové akce.
+K výročí 100 let od úmrtí prof. Deyla se pořádá v jeho rodném městě Vysokém Veselí 16.2.2024 vzpomínkové akce.
