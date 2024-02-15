@@ -6,11 +6,7 @@ nav_order: 1
 
 # Stezka Češov Veselí
 
-Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku, kterou v roce 2008 vybudoval. Každý rok vždy třetí sobotu v červenci pořádá Putování po stezce Češov – Vysoké Veselí. Pořádá i další akce, například vycházky za jarní květenou, adventní koncerty a další. Sází a stará se o stromy na stezce a v okolí. 
-
-Naše naučná stezka prochází obcemi Češov, Kozojedy, Sběř, Velešice, Vysoké Veselí, Volanice a kulturními a přírodními památkami Češovské Valy, Veselský háj.
-
-
+Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku. Každý rok vždy třetí sobotu v červenci pořádá Putování po stezce Češov – Vysoké Veselí a další akce. Naše naučná stezka prochází obcemi Češov, Kozojedy, Sběř, Velešice, Vysoké Veselí, Volanice a kulturními a přírodními památkami Češovské Valy, Veselský háj.
 
 | Adresa:| Spolek Stezka Češov - Vysoké Veselí, Češov 5, p. Jičín 506 01|
 |--|--|
@@ -24,6 +20,13 @@ Naše naučná stezka prochází obcemi Češov, Kozojedy, Sběř, Velešice, Vy
 [trasa](trasa.html)
 
 # Novinky a akce
+
+## Výročí 100 let od úmrtí prof. Deyla 
+pořádá Spolek stezka Češov - Vysoké Veselí a město Vysoké Veselí ve spolupráci s Konzervatoří a střední školou Jana Deyla a Základní školou Vysoké Veselí v jeho rodném městě 16.2.2024 vzpomínkovou akci:
+  * Od 13:00 setkání u hrobu Prof. Jana Deyla na hřbitově ve Vysokém Veselí.
+  * Od 15:00 koncert a posezení v kulturním domě ve Vysokém Veselí.
+
+více viz [Výročí úmrtí prof. Deyla](prof.deyl.md)
 
 ## Putování po stezce – 15. 7. 2023
 Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 15. července 2023
