@@ -21,7 +21,7 @@ Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku. Každý rok
 
 # Novinky a akce
 
-## Výročí 100 let od úmrtí prof. Deyla 
+## Výročí 100 let od úmrtí prof. Deyla - 16.2.2024
 pořádá Spolek stezka Češov - Vysoké Veselí a město Vysoké Veselí ve spolupráci s Konzervatoří a střední školou Jana Deyla a Základní školou Vysoké Veselí v jeho rodném městě 16.2.2024 vzpomínkovou akci:
   * Od 13:00 setkání u hrobu Prof. Jana Deyla na hřbitově ve Vysokém Veselí.
   * Od 15:00 koncert a posezení v kulturním domě ve Vysokém Veselí.
