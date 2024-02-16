@@ -26,7 +26,7 @@ pořádá Spolek stezka Češov - Vysoké Veselí a město Vysoké Veselí ve sp
   * Od 13:00 setkání u hrobu Prof. Jana Deyla na hřbitově ve Vysokém Veselí.
   * Od 15:00 koncert a posezení v kulturním domě ve Vysokém Veselí.
 
-více viz [Výročí úmrtí prof. Deyla](prof.deyl.md)
+více viz [Výročí úmrtí prof. Deyla](prof.deyl.html)
 
 ## Putování po stezce – 15. 7. 2023
 Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 15. července 2023
