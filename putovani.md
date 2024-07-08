@@ -1,7 +1,7 @@
 ---
 title: Putování 2023
 layout: default
-nav_order: 6
+nav_order: 7
 ---
 # Putování po stezce – 15. 7. 2023
 Tradiční putování po stezce proběhlo v sobotu 15. července 2023
