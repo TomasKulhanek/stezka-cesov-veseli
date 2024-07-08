@@ -1,10 +1,10 @@
 ---
-title: Putování
+title: Putování 2023
 layout: default
 nav_order: 6
 ---
 # Putování po stezce – 15. 7. 2023
-Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 15. července 2023
+Tradiční putování po stezce proběhlo v sobotu 15. července 2023
 - Start: na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
 - Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda), 
 - Cíl:  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
