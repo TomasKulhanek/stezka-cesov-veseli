@@ -4,7 +4,7 @@ layout: default
 nav_order: 6
 ---
 # Putování po stezce – 20. 7. 2024
-Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 20. července 2023
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 20. července 2024
 - Start: na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
 - Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda), 
 - Cíl:  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
