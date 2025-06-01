@@ -4,8 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-## Putování po stezce – 17. 7. 2025
-Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 17. července 2025
+## Putování po stezce – 19. 7. 2025
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 19. července 2025
 - **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
 - Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda),
 - Samoobslužné stanoviště: Češovské valy, Velešická alej
