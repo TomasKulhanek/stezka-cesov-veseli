@@ -4,6 +4,17 @@ layout: home
 nav_order: 1
 ---
 
+## Putování po stezce – 17. 7. 2025
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 17. července 2025
+- **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
+- Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda),
+- Samoobslužné stanoviště: Češovské valy, Velešická alej
+- **Startovné:** dospělí 50 Kč, děti 20 Kč
+- **Cíl:**  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
+pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek aspoň se třemi razítky
+- [Detailní informace](putovani2025.html)
+
+
 # Stezka Češov Veselí
 
 Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku. Každý rok vždy třetí sobotu v červenci pořádá Putování po stezce Češov – Vysoké Veselí a další akce. Naše naučná stezka prochází obcemi Češov, Kozojedy, Sběř, Velešice, Vysoké Veselí, Volanice a kulturními a přírodními památkami Češovské Valy, Veselský háj.
@@ -19,18 +30,7 @@ Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku. Každý rok
 
 [trasa](trasa.html)
 
-# Novinky a akce
-
-
-## Putování po stezce – 17. 7. 2025
-Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 17. července 2025
-- **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
-- Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda),
-- Samoobslužné stanoviště: Češovské valy, Velešická alej
-- **Startovné:** dospělí 50 Kč, děti 20 Kč
-- **Cíl:**  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
-pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek aspoň se třemi razítky
-- [Detailní informace](putovani2025.html)
+# Starší akce
   
 ## Putování po stezce – 20. 7. 2024
 Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 20. července 2024
