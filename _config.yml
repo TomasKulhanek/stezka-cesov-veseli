@@ -1,6 +1,8 @@
 title: Stezka Češov Veselí - spolek
 description: Stránky o naučné stezce 
 theme: just-the-docs
+plugins:
+  - jekyll-default-layout
 
 url: "https://tomaskulhanek.github.io/stezka-cesov-veseli"
 
