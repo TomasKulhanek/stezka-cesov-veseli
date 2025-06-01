@@ -21,6 +21,17 @@ Spolek stezka Češov Veselí spravuje a okrašluje naučnou stezku. Každý rok
 
 # Novinky a akce
 
+
+## Putování po stezce – 17. 7. 2025
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 17. července 2025
+- **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
+- Kontrolní stanoviště: Češov (náves), Kozojedy (kostel), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda),
+- Samoobslužné stanoviště: Češovské valy, Velešická alej
+- **Startovné:** dospělí 50 Kč, děti 20 Kč
+- **Cíl:**  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
+pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek aspoň se třemi razítky
+- [Detailní informace](putovani2025.html)
+  
 ## Putování po stezce – 20. 7. 2024
 Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 20. července 2024
 - **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
