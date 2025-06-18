@@ -13,7 +13,7 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
 - Trasy putování: 5- 23 km (v případě vlastní trasy klidně i více;-)
 - Kudy: většinou po trase naučné stezky, podrobné informace o trasách na všech kontrolních stanovištích
 - Jak: pro putování doporučujeme použít kolo, ale povoleny jsou i všemožné další způsoby putování: pěšky, na koni, na koloběžce, na chůdách, na koni nebo na oslu… děti a domácí mazlíčky vezměte s sebou!
-- Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Vysokém Veselí), SETKÁNÍ S VARHANÍKEM, razítka, …
+- Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Velešicích), SETKÁNÍ S VARHANÍKEM, razítka, …
 - Startovné: **dospělí 50,- Kč**, **děti 20,- Kč**, startovné nám částečně pokryje náklady spolku na putování
 
  ![mapa](/img/mapa-putovani-2023.png)
