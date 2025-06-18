@@ -16,7 +16,7 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
 - Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Velešicích), SETKÁNÍ S VARHANÍKEM, razítka, …
 - Startovné: **dospělí 50,- Kč**, **děti 20,- Kč**, startovné nám částečně pokryje náklady spolku na putování
 
- ![mapa](/img/mapa-putovani-2023.png)
+ ![mapa](/img/MapaStezky2025.png)
 
 ## CO / KDE / KDY (aneb podrobný itinerář)
 - od 9:00 do 12:00 bude na Kákovicích hasičské auto a hasiči - prohlédněte si hasičskou techniku v klidu a pořádně zblízka!
