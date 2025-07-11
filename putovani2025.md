@@ -30,7 +30,7 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
 - Traktory v Češově: prohlédněte si moderní i lety prověřenou zemědělskou techniku! Děti se mohou svézt na malém traktoru! 
 - Pozorování přírody u Sběřského rybníka
 - Samoobslužný kontrolní bod v Češovských valech Zastavte se také v této zajímavé archeologické lokalitě… samoobslužný kontrolní bod tu bude čekat po celou dobu putování (9 - 15)
-- od 9:00 do 15:00 Prohlídky všech kostelů na trase Prohlédněte si kostely v Kozojedech, ve Velešicích a ve Vysokém Veselí. Můžete se podívat na kúr, zkusit šlapat měch varhan… Všechny kostely budou otevřeny po celou dobu putování (od 9 do 15:00)
+- od 9:00 do 15:00 Prohlídky kostelů na trase. Prohlédněte si kostely ve Velešicích a ve Vysokém Veselí (kostel v Kozojedech letos z důvodu rekonstrukce uzavřen). Můžete se podívat na kúr, zkusit šlapat měch varhan… Kostely budou otevřeny po celou dobu putování (od 9 do 15:00)
 - Občerstvení:
   - hasičská zbrojnice Češov - náves,
   - hospoda U čerta V.Veselí, kde také vaří,
