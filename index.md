@@ -3,11 +3,30 @@ title: Úvod
 layout: home
 nav_order: 1
 ---
+## Koncert 28.3.2026 - Vysoké Veselí
+Spolek stezka Češov - Vysoké Veselí Vás
 
-## Putování po stezce – 19. 7. 2025
+srdečně zve na
+KONCERT
+VELIKONOČNÍ ZPĚVY ZEMÍ KORUNY ČESKÉ
+
+Kdy: 28. března 2026 od 18:00
+
+Kde: Kostel sv. Mikuláše Tolentinského, Vysoké Veselí
+
+Kdo: Schola specialis Familiae
+Klára, Anežka, Veronika a Vlastislav Matouškovi a Kateřina Vožická
+
+Schola Specialis Familiae - rodinný soubor muzikologa a skladatele Doc. Vlastislava Matouška Ph.D., orientující se na
+dobovou provozovací praxi hudby středověku (gotiky a renesance) s dominujícím vokálním projevem, doprovázeným
+stylovou hrou a improvizací na kopie a rekonstrukce dobových nástrojů, jako jsou zobcové flétny, niněra, hackbret, gemzhorn, platerspiel, šalmaje, trumšajt, perkuse etc. Těžištěm repertoáru jsou anonymní, většinou vícehlasé skladby z českých pramenů (Jistebnický kancionál, Codex Franus a Codex Speciálník).
+
+Vstupné: dobrovolné
+
+## Putování po stezce – 18. 7. 2026
 Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 19. července 2025
 - **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
-- Kontrolní stanoviště: Češov (náves), Kozojedy (náves), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda), Sběř (hospoda)
+- Kontrolní stanoviště: Češov (náves), Kozojedy (náves), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda)
 - Samoobslužné stanoviště: Češovské valy, Velešická alej
 - **Startovné:** dospělí 50 Kč, děti 20 Kč
 - **Cíl:**  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
