@@ -31,7 +31,7 @@ Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sob
 - **Startovné:** dospělí 50 Kč, děti 20 Kč
 - **Cíl:**  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
 pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek aspoň se třemi razítky
-- [Detailní informace](putovani2025.html)
+- [Detailní informace](putovani2026.html)
 
 
 # Stezka Češov Veselí
