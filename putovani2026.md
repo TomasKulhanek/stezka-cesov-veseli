@@ -4,33 +4,33 @@ layout: default
 nav_order: 1
 ---
 # Putování po stezce – 18. 7. 2026
-Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 19. července 2025
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 18. července 2026
 - Start: na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
-- Kontrolní stanoviště: Češov (náves), Kozojedy (náves), Sběř – rybník, Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (hospoda),
+- Kontrolní stanoviště: Češov (náves), Kozojedy (náves), Sběř (škola/hospoda), Sběř (rybník), Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (špejchar)
 - Samoobslužné stanoviště: Češovské valy a Velešická alej
 - Cíl:  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
 pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek aspoň se třemi razítky
 - Trasy putování: 5- 23 km (v případě vlastní trasy klidně i více;-)
 - Kudy: většinou po trase naučné stezky, podrobné informace o trasách na všech kontrolních stanovištích
 - Jak: pro putování doporučujeme použít kolo, ale povoleny jsou i všemožné další způsoby putování: pěšky, na koni, na koloběžce, na chůdách, na koni nebo na oslu… děti a domácí mazlíčky vezměte s sebou!
-- Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), dílničky pro děti, prohlídky kostelů, MINIKONCERT (tentokrát ve Velešicích), SETKÁNÍ S VARHANÍKEM, razítka, …
+- Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), dílničky pro děti, prohlídky kostelů, SETKÁNÍ S VARHANÍKEM p. Turkem ve Velešicích v 11:00, razítka, …
 - Startovné: **dospělí 50,- Kč**, **děti 20,- Kč**, startovné nám částečně pokryje náklady spolku na putování
 
  ![mapa](/img/MapaStezky2025.png)
 
 ## CO / KDE / KDY (aneb podrobný itinerář)
+- od 10:00 do 13:00 Volanice špejchar - nově prohlídka špejcharu a výstava dobových fotografií obce, prezentace + komentář starostky obce
 - od 9:00 do 12:00 bude na Kákovicích hasičské auto a hasiči - prohlédněte si hasičskou techniku v klidu a pořádně zblízka!
-- 12:30 Velešice - p. Turek, setkání s varhaníkem
-- od 14:00 Koncert ve Velešicích, r. Matouškova na niněru
+- 11:00 Velešice - p. Turek, setkání s varhaníkem + několik varhanních skladeb
 - od 9:00 do 15:00 v Kozojedech na návsi výstava Velorexů. kostel v Kozojedech z důvodu rekonstrukce zavřený
 - od 9:00 do 15:00 hry na Kákovicích Zábava pro děti i dospělé. Zkuste chůzi na chůdách, hod na cíl a další klasické hry! Odměny pro všechny hravé! Po celou dobu putování (9 - 15)
-- od 9:00 do 15:00 Sběř hospoda - výstava dresů na hokej a fotbal, mince, puky a další sportovní zajímavosti
+- od 9:00 do 15:00 Sběř hospoda - výstava dresů na hokej a fotbal, mince, puky a další sportovní zajímavosti, nově mistrovská kolekce Dynamo Pardubice
 - od 9:00 do 12:00 hasiči na Kákovicích
 - od 9:00 do 15:00 Les plný zvířátek Najdete všechna zvířata a vyluštíte naši tajenku? Křížovka pro zdatné luštitele a odměna! Po celou dobu putování (9-15:00) mezi Velešicemi a Kákovicemi. Začít hledat můžete ve Velešicích i na Kákovicích - záleží jen na Vás:-)
-- Traktory v Češově: prohlédněte si moderní i lety prověřenou zemědělskou techniku! Děti se mohou svézt na malém traktoru! 
+- Češov náves: děti se mohou svézt na malém traktoru! 
 - Pozorování přírody u Sběřského rybníka
 - Samoobslužný kontrolní bod v Češovských valech Zastavte se také v této zajímavé archeologické lokalitě… samoobslužný kontrolní bod tu bude čekat po celou dobu putování (9 - 15)
-- od 9:00 do 15:00 Prohlídky kostelů na trase. Prohlédněte si kostely ve Velešicích a ve Vysokém Veselí (kostel v Kozojedech letos z důvodu rekonstrukce uzavřen). Můžete se podívat na kúr, zkusit šlapat měch varhan… Kostely budou otevřeny po celou dobu putování (od 9 do 15:00)
+- od 9:00 do 15:00 Prohlídky kostelů na trase. Prohlédněte si kostely ve Velešicích a ve Vysokém Veselí (kostel v Kozojedech letos jako i loni z důvodu rekonstrukce uzavřen). OStatní kostely - můžete se podívat na kúr, zkusit šlapat měch varhan… Kostely budou otevřeny po celou dobu putování (od 9 do 15:00)
 - Občerstvení:
   - hasičská zbrojnice Češov - náves,
   - hospoda U čerta V.Veselí, kde také vaří,
