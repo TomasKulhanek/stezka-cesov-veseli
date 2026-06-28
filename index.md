@@ -5,11 +5,11 @@ nav_order: 1
 ---
 
 ## Putování po stezce – 18. 7. 2026
-Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 19. července 2025
+Zveme Vás na tradiční putování po stezce, které se letos uskuteční v sobotu 18. července 2026
 - **Start:** na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
-- Kontrolní stanoviště: Češov (náves), Kozojedy (náves), Sběř(škola), Sběř (rybník), Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (špejchar 10-13)
+- Kontrolní stanoviště: Češov (náves), Kozojedy (náves), Sběř(škola), Sběř (rybník), Velešice (kostel), Kákovice (vyhlídka), Vysoké Veselí (kostel), Volanice (nově špejchar 10-13)
 - Samoobslužné stanoviště: Češovské valy, Velešická alej
-- **Startovné:** dospělí 50 Kč, děti 20 Kč
+- **Startovné:** dospělí 50 Kč, děti 20 Kč - všichni stezkaři dělají tuto práci bezplatně, dobrovolně, startovným přispíváte na náklady organizace putování, tisku mapek, plakátů, nákup drobných odměn pro účastníky apod.
 - **Cíl:**  na kterémkoli kontrolním stanovišti putování (od 9:00 do 15:00)
 pamětní list získá každý, kdo v kterémkoli z cílových stanovišť předloží startovní lístek aspoň se třemi razítky
 - [Detailní informace](putovani2026.html)
