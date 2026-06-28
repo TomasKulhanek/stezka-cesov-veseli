@@ -14,7 +14,7 @@ pamětní list získá každý, kdo v kterémkoli z cílových stanovišť před
 - Kudy: většinou po trase naučné stezky, podrobné informace o trasách na všech kontrolních stanovištích
 - Jak: pro putování doporučujeme použít kolo, ale povoleny jsou i všemožné další způsoby putování: pěšky, na koni, na koloběžce, na chůdách, na koni nebo na oslu… děti a domácí mazlíčky vezměte s sebou!
 - Co Vás čeká: les plný zvířátek (hra s tajenkou nejen pro děti), dílničky pro děti, prohlídky kostelů, SETKÁNÍ S VARHANÍKEM p. Turkem ve Velešicích v 11:00, razítka, …
-- Startovné: **dospělí 50,- Kč**, **děti 20,- Kč**, startovné nám částečně pokryje náklady spolku na putování
+- Startovné: **dospělí 50,- Kč**, **děti 20,- Kč**, všichni stezkaři dělají tuto práci bezplatně, dobrovolně, startovným přispíváte na náklady organizace putování, tisku mapek, plakátů, nákup drobných odměn pro účastníky apod. Děkujeme.
 
  ![mapa](/img/MapaStezky2025.png)
 
